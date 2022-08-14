@@ -6,7 +6,7 @@ This repository create an __AWS:__
  - __aws-databases-terraform__
 
 # AWS  diagram 
-![Diagram place holder](https://github.com/ValAug/aws-databases-terraform/blob/main/RDS.png)
+![Diagram](https://github.com/ValAug/aws-databases-terraform/blob/main/RDS.png)
 ###### Cloud - :cloud:
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
 
