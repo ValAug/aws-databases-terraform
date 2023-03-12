@@ -68,7 +68,7 @@ terraform destroy --auto-approve
     - __Alternate command:__ terraform destroy -auto-approve
     - __terraform fmt -recursive__ Reformat your configuration in the standard style
 
-__IoT-Core-databases-terraform mini project direction starts here:__
+# __IoT-Core-databases-terraform mini project direction starts here:__
 
-# AWS  diagram 
+# AWS-IoT diagram 
 ![Diagram](https://github.com/ValAug/aws-databases-terraform/blob/main/IoT-TimeStream.png)
