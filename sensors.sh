@@ -2,8 +2,8 @@
 
 # Set variables
 topic='iot-core-topic'
-iterations=10
-wait=2
+iterations=20
+wait=3
 region='us-east-1'
 profile='<use your aws cli-profile here>'
 
