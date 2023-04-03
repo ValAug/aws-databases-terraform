@@ -23,6 +23,11 @@ resource "aws_iot_topic_rule" "iot_rule" {
   sql_version = "2016-03-23"
   enabled     = true
   description = "Send data from the AWS IoT Core to AWS Timestream"
+
+  timestream {
+      database_name = aws_timestreamwrite_database.timestream_database.database_name
+
+        dimension {}
 }
 
 
