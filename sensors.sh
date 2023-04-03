@@ -3,9 +3,9 @@
 # Set variables
 topic='iot-core-topic'
 iterations=20
-wait=3
+wait=5
 region='us-east-1'
-profile='<use your aws cli-profile here>'
+profile='<add your aws-cli profile here>'
 
 # Loop for the specified number of iterations
 for (( i = 1; i <= iterations; i++ )); do
