@@ -48,3 +48,7 @@ resource "aws_iot_policy_attachment" "iot_policy_attachment" {
   policy = aws_iam_policy.iot_timestream_policy.name
   target = aws_iot_certificate.iot_certificate.arn
 }
+
+resource "aws_iot_topic" "iot_topic" {
+  name = "your-topic-name"
+}
