@@ -38,7 +38,7 @@ EOF
 }
 
 resource "aws_iam_policy" "iot_timestream_policy" {
-  name        = "iot-timestream-motion-policy"
+  name        = "iot-timestream-policy"
   description = "iot role timestream write policy"
 
   policy = <<EOF
