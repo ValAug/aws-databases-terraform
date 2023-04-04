@@ -73,8 +73,8 @@ terraform destroy --auto-approve
 # AWS-IoT diagram 
 ![Diagram](https://github.com/ValAug/aws-databases-terraform/blob/main/IoT-TimeStream.png)
 
-__How to install aws cli latest version__
+1 - __How to install aws cli latest version__
 
 [Link-Here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
-_run this cli command_ `sh sensors.sh`
+2 - __Run__ __this__ __cli__ __command__ `sh sensors.sh`
