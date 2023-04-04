@@ -75,6 +75,6 @@ terraform destroy --auto-approve
 
 __How to install aws cli latest version__
 
-![Link-Here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+[Link-Here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 _run this cli command_ `sh sensors.sh`
