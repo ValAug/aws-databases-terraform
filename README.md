@@ -77,12 +77,12 @@ terraform destroy --auto-approve
 
 [Link-Here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
-2 - On the `sensors.sh` you will need to modify a couple of place
+2 - In the `sensors.sh` file, you will need to make a couple of modifications.
 
 ```
 topic='<topic name>'
-iterations=20
-wait=5
+iterations=<number>
+wait=<number>
 region=<'region'>
 profile='<add your aws-cli profile here>'
 
